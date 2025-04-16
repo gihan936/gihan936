@@ -57,7 +57,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihan936&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 
 
-<h3 align="center">How to reach me - <a href="mailto:gihanNiranga@gmail.com">gihanNiranga@gmail.com</a></h3><br>
+<h3 align="center">How to reach me - <a href="mailto:gihankodikara93@gmail.com">gihankodikara93@gmail.com</a></h3><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gihan-niranga" target="_blank">
