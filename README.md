@@ -21,7 +21,6 @@
 - 🏢 Former Trainee Automation Engineer at **Technast Automation (Pvt) Ltd.**
 - 🎓 BSc in Electronics & Information Systems from **University of Colombo**
 - 🌍 Currently based in **Kitchener, Ontario, Canada**
-- 👀 Passionate about building scalable applications and automation solutions
 
 ---
 
