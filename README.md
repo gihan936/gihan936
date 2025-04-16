@@ -20,7 +20,6 @@
 - Former Software Engineer at **Victoria Partners**
 - Former Trainee Automation Engineer at **Technast Automation (Pvt) Ltd.**
 - 🎓 BSc in Electronics & Information Systems from **University of Colombo**
-- 🏫 Alumni of **Isipathana College, Colombo-5**
 - 🌍 Currently based in **Kitchener, Ontario, Canada**
 - Passionate about building scalable applications and automation solutions
 
