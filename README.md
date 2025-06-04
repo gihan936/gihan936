@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gihan Edirisinghe</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gihan-niranga" target="_blank">
